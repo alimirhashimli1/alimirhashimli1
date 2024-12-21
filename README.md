@@ -50,7 +50,7 @@ Feel free to explore my repositories, open issues, or start discussions. I'm alw
 
 📫 **Reach me at:**  
 - **Email**: alimirhashimli@gmail.com 
-- **LinkedIn**: (https://www.linkedin.com/in/ali-mirhashimli-197480121/ 
+- **LinkedIn**: https://www.linkedin.com/in/ali-mirhashimli-197480121/ 
 
 ---
 
