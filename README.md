@@ -1,57 +1,52 @@
-# 👋 Hi there, I'm Ali!  
-🌟 **Full-Stack Developer | Tech Enthusiast | Problem Solver**  
+# 👋 Hey, I'm Mirali Mirhashimli
 
-Welcome to my GitHub profile! I'm passionate about building intuitive, scalable web applications and exploring the endless possibilities of modern technologies.  
-
----
-
-## 🛠️ **My Tech Toolbox**  
-### **Languages & Frameworks**  
-- **Frontend**: React.js, Next.js, Redux, HTML5, CSS3, TypeScript  
-- **Backend**: Node.js, Express.js  
-- **Database Management**: MongoDB, PostgreSQL  
-
-### **Specialized Skills**  
-- **Cloud Services**: AWS, Google Cloud
-- **State Management**: Redux, Context API  
-- **Testing**: Jest, Cypress, Mocha  
-- **Modern JavaScript**: ES6+, TypeScript  
-- **CSS Techniques**: Responsive Design, CSS-in-JS, Tailwind CSS 
+Welcome to my GitHub! I'm a full-stack developer with a focus on building practical, user-friendly web applications. I enjoy solving real-world problems with clean code and modern tools.
 
 ---
 
-## 🌱 **What I'm Currently Working On**  
-- A **video conference and file sending app** built with React and Node.js to deliver personalized movie recommendations.  
-- Exploring the use of **WebRTC and Crypto.js** for secure and seamless peer-to-peer file transfers.  
+## 👨‍💻 What I Do
+
+I work mostly with the **MERN** and **PERN** stack (MongoDB - PostgreSQL, Express, React, Node.js), but I'm always exploring new technologies. Right now, I'm diving into **ASP.NET Core** to expand my backend skills and build cross-platform apps with C#.
+
+I care about performance, accessibility, and good design—both in code and in user experience.
 
 ---
 
-## 🎯 **My Goals**  
-- Build innovative apps that simplify life and solve real-world problems.  
-- Contribute to impactful open-source projects in the web and mobile development space.  
-- Stay at the forefront of emerging technologies, especially **AI integrations** and **fintech solutions**.  
+## 🧰 Tech I'm Comfortable With
+
+**Frontend**
+- React, Next.js, Redux, TypeScript, HTML, CSS, Tailwind CSS
+
+**Backend**
+- Node.js, Express, REST APIs, MongoDB, PostgreSQL
+
+**Tools & Skills**
+- Docker, Git, CI/CD, AWS, WebSockets, WebRTC
+- Testing with Jest, Mocha, 
+
+**Currently Learning**
+- ASP.NET Core (C#)
+- Building full-stack apps using Dockerized environments
 
 ---
 
-## 🚀 **My Side Projects**  
-1. **PeerConnect**: A web app for sharing files between devices via QR codes, built with React, Node.js, WebRTC, and Crypto.js.  
-2. **Personal Finance Tracker**: A MERN-based app for tracking expenses, designed for simplicity and ease of use.  
-3. **Pop-up Kinder Eggs**: A playful side project reimagining popular treats into healthier alternatives—because creativity isn't just for code!  
+## 🎯 My Goals
+
+- Build useful, open-source tools that help people in everyday life  
+- Grow my knowledge in **C# / .NET** and cloud infrastructure  
+- Collaborate with other devs and contribute to meaningful projects  
+- Explore AI integrations and bring smarter features into my apps  
 
 ---
 
-## 🏆 **Why You Should Work With Me**  
-I bring a strong foundation in **full-stack development**, a knack for problem-solving, and a passion for creating user-focused, scalable solutions. I'm always learning and experimenting to push the boundaries of what's possible with code. Collaboration and innovation are at the heart of everything I do.  
+## 📬 Let's Connect
+
+If you’re into building useful apps, clean code, or just want to talk tech — I’m always up for a chat!
+
+- 📧 **Email**: alimirhashimli@gmail.com  
+- 🔗 [**LinkedIn**](https://www.linkedin.com/in/ali-mirhashimli-197480121/)  
 
 ---
 
-## 🤝 **Let’s Connect!**  
-Feel free to explore my repositories, open issues, or start discussions. I'm always open to feedback, collaboration, and new opportunities!  
+Thanks for stopping by. See you in the commits! 🚀
 
-📫 **Reach me at:**  
-- **Email**: alimirhashimli@gmail.com 
-- **LinkedIn**: https://www.linkedin.com/in/ali-mirhashimli-197480121/ 
-
----
-
-✨ Thanks for stopping by! Let's build something amazing together!  
